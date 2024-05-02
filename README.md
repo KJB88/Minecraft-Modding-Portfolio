@@ -25,6 +25,7 @@
 <h2>Core Competencies</h2>
 <ul>
   <li><b>Languages</b>: Java, JSON</li>
+    <li>Technologies: Fabric Modding API, Minecraft Codebase </li>
   <li><b>Supporting Tools</b>: Git (CLI, Github), Eclipse</li>
 </ul>
 </section>
